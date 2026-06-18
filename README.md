@@ -1,12 +1,12 @@
-#Your Name Here
+#Tanmay Sanjay More 
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
 ---
 
 ## About Me
+I,m from sangamner,I have Lived for my education in Pune previously,I like reading 
 
-Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
 
 ---
 
@@ -17,7 +17,7 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| Add more...  | ...          |
+| c          |    Beginner     |
 
 ---
 
@@ -30,13 +30,9 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 ---
 
 ## Goals
+Get into a good engineering college 
 
-- What do you want to learn next? (be specific — e.g. "learn Python file I/O")
-- What project do you want to build?
-- Any other goal...
-
----
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your-email@example.com)
+[Email](tanmaymore2407@gmail.com)

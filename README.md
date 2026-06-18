@@ -17,7 +17,7 @@ I,m from sangamner,I have Lived for my education in Pune previously,I like readi
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| c          |    Beginner     |
+| c            |    Beginner   |
 
 ---
 
@@ -33,6 +33,8 @@ I,m from sangamner,I have Lived for my education in Pune previously,I like readi
 Get into a good engineering college 
 
 
+
 ## Find Me
 
 [Email](tanmaymore2407@gmail.com)
+[Email](tanmaymore1705@gmail.com)

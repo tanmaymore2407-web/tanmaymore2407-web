@@ -11,33 +11,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.grid {
-    display: grid;
-    grid-template-columns: repeat(7, 20px);
-    gap: 4px;
-}
-.cell {
-    width: 20px;
-    height: 20px;
-    background: #39d353;
-}
-</style>
-</head>
-<body>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tanmaymore2407-web&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div class="grid">
-    <div class="cell"></div>
-    <div class="cell"></div>
-    <div class="cell"></div>
-    <div class="cell"></div>
-    <div class="cell"></div>
-    <div class="cell"></div>
-    <div class="cell"></div>
-</div>
+# 📈 Contribution Graph
 
-</body>
-</html>
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmaymore2407-web&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/tanmaymore2407-web)
+
+---
+[![](https://komarev.com/ghpvc/?username=tanmaymore2407-web&icon=0&color=0)](https://visitcount.itsvg.in)

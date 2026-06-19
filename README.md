@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I,m from sangamner,I have Lived for my education in Pune previously,I like reading 
+I,m from sangamner,I have Lived for my education in Pune previously,I like reading ,I like gamming 
 
 
 ---

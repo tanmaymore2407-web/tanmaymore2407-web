@@ -11,4 +11,33 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
-![pythin](https://vercel.app)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid {
+    display: grid;
+    grid-template-columns: repeat(7, 20px);
+    gap: 4px;
+}
+.cell {
+    width: 20px;
+    height: 20px;
+    background: #39d353;
+}
+</style>
+</head>
+<body>
+
+<div class="grid">
+    <div class="cell"></div>
+    <div class="cell"></div>
+    <div class="cell"></div>
+    <div class="cell"></div>
+    <div class="cell"></div>
+    <div class="cell"></div>
+    <div class="cell"></div>
+</div>
+
+</body>
+</html>

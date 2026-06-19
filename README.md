@@ -10,3 +10,4 @@
 [![](https://komarev.com/ghpvc/?username=tanmaymore2407-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/default.svg

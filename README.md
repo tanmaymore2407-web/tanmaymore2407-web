@@ -11,8 +11,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
-  Image Alt Text                Dynamic Image API Endpoint                 Click Destination
-      👇                                    👇                                     👇
-[![share markets](https://vercel.app)](https://github.com)
-
-[![Vercel](https://img.shields.io/badge/Live-Demo-blue)](https://github.com)
+  <img src=("https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanmayMore&theme=github_dark" alt="GitHub Stats">

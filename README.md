@@ -35,48 +35,44 @@ Clone this GitHub repo: https://github.com/,your-MORE,/,repo-TANMAY
   <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
 
 
+#Tanmay Sanjay More 
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
-###
+---
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+## About Me
+I,m from sangamner,I have Lived for my education in Pune previously,I like reading ,I like gamming 
 
-###
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+---
 
-###
+## Skills
+
+| Skill        | Level        |
+|--------------|--------------|
+| Python       | Beginner     |
+| Git & GitHub | Beginner     |
+| Markdown     | Beginner     |
+| c            |    Beginner   |
+
+---
+
+## Current Projects
+
+- **Grade Buddy** — a command-line app that tracks test scores and generates a report card.
+- **GitHub Profile** — this very page, my first Markdown website.
+- Add more if you have them...
+
+---
+
+## Goals
+Get into a good engineering college 
 
 
 
+## Find Me
+
+[Email](tanmaymore2407@gmail.com)
+[Email](tanmaymore1705@gmail.com)
+[Instagram](tanmay_official18)

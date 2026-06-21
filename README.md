@@ -77,3 +77,33 @@ Get into a good engineering college
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+**import matplotlib.pyplot as plt
+
+# 1. Sample data from Grade Buddy
+tests = ['Quiz 1', 'Test 1', 'Quiz 2', 'Midterm', 'Test 3', 'Final']
+scores = [78, 85, 82, 90, 88, 94]
+
+# 2. Design and styling configuration
+plt.figure(figsize=(8, 4.5))
+plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
+
+# Plot line and data points
+plt.plot(tests, scores, marker='o', color='#2ea44f', linewidth=2.5, markersize=8, label='Your Progress')
+
+# Add data labels above each point
+for i, score in enumerate(scores):
+    plt.text(i, score + 1.5, f'{score}%', ha='center', fontsize=9, fontweight='bold', color='#24292e')
+
+# 3. Titles and axis labels
+plt.title('Academic Performance Trend', fontsize=14, fontweight='bold', pad=15, color='#24292e')
+plt.xlabel('Assessments', fontsize=11, labelpad=10)
+plt.ylabel('Scores (%)', fontsize=11, labelpad=10)
+plt.ylim(60, 105)
+
+# 4. Save the graph for GitHub README
+plt.tight_layout()
+plt.savefig('performance_graph.png', dpi=300, transparent=True)
+print("Graph saved successfully as 'performance_graph.png'!")
+**
+
+

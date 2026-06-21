@@ -107,3 +107,109 @@ print("Graph saved successfully as 'performance_graph.png'!")
 **
 
 
+
+
+import json
+import os
+import matplotlib.pyplot as plt
+
+# File to persist student grade data
+DATA_FILE = "grades_data.json"
+
+def load_data():
+    """Load grades from local JSON storage or return defaults if empty."""
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r") as f:
+            return json.load(f)
+    return {"tests": ["Quiz 1", "Test 1", "Quiz 2", "Midterm"], "scores":}
+
+def save_data(data):
+    """Save updated grades back to JSON storage."""
+    with open(DATA_FILE, "w") as f:
+        json.dump(data, f, indent=4)
+
+def generate_performance_graph(data):
+    """Generate and save the visual trend chart using current data."""
+    if not data["tests"]:
+        print("❌ No data available to generate a graph.")
+        return
+
+    plt.figure(figsize=(8, 4.5))
+    plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
+
+    # Draw trendlines using dataset variables
+    plt.plot(data["tests"], data["scores"], marker='o', color='#2ea44f', linewidth=2.5, markersize=8)
+
+    # Annotate points dynamically
+    for i, score in enumerate(data["scores"]):
+        plt.text(i, score + 1.5, f'{score}%', ha='center', fontsize=9, fontweight='bold', color='#24292e')
+
+    # Global chart layout parameters
+    plt.title('Academic Performance Trend', fontsize=14, fontweight='bold', pad=15, color='#24292e')
+    plt.xlabel('Assessments', fontsize=11, labelpad=10)
+    plt.ylabel('Scores (%)', fontsize=11, labelpad=10)
+    plt.ylim(min(data["scores"]) - 10, 105) # Adapts scale down dynamically if scores drop
+    
+    plt.tight_layout()
+    plt.savefig('performance_graph.png', dpi=300, transparent=True)
+    plt.close() # Frees system memory after writing file
+    print("📈 Graph updated and saved as 'performance_graph.png'!")
+
+def add_new_grade(data):
+    """Command line interface prompt to append a new assessment score."""
+    name = input("Enter assessment name (e.g., Test 3): ").strip()
+    if not name:
+        print("❌ Name cannot be blank.")
+        return
+    
+    try:
+        score = float(input("Enter percentage grade score (0-100): "))
+        if 0 <= score <= 100:
+            data["tests"].append(name)
+            data["scores"].append(score)
+            save_data(data)
+            print(f"✅ Added {name}: {score}%")
+            # Automatically update visual asset file when raw values change
+            generate_performance_graph(data)
+        else:
+            print("❌ Grade score must fall between 0 and 100.")
+    except ValueError:
+        print("❌ Invalid input. Grade score must be a numerical digit.")
+
+def display_report_card(data):
+    """Prints a structured text summary to the terminal window."""
+    print("\n================ REPORT CARD ================")
+    if not data["tests"]:
+        print("No grades recorded yet.")
+    for t, s in zip(data["tests"], data["scores"]):
+        print(f" 📋 {t:<15} : {s:>5}%")
+    print("---------------------------------------------")
+    avg = sum(data["scores"]) / len(data["scores"]) if data["scores"] else 0
+    print(f" Total Average Score: {avg:.2f}%")
+    print("=============================================\n")
+
+def main():
+    """Main execution loop for Grade Buddy application."""
+    data = load_data()
+    while True:
+        print("--- Grade Buddy Menu ---")
+        print("1. View Report Card")
+        print("2. Add Test Score")
+        print("3. Regenerate Graph Only")
+        print("4. Exit")
+        
+        choice = input("Select an option (1-4): ").strip()
+        if choice == "1":
+            display_report_card(data)
+        elif choice == "2":
+            add_new_grade(data)
+        elif choice == "3":
+            generate_performance_graph(data)
+        elif choice == "4":
+            print("Goodbye!")
+            break
+        else:
+            print("❌ Invalid entry selection. Try again.")
+
+if __name__ == "__main__":
+    main()

@@ -17,8 +17,8 @@ I,m from sangamner,I have Lived for my education in Pune previously,I like readi
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| c            |    Beginner   |
-
+| c            | Beginner     |
+|c++           | Beginner     |
 ---
 
 ## Current Projects

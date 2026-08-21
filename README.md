@@ -80,3 +80,5 @@ Get into a good engineering college
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+![Uploading image.png…]()
+

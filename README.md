@@ -100,3 +100,10 @@ Get into a good engineering college
   <img src="https://github-readme-stats.vercel.app/api?username=TanmayMore&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayMore&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/neon_github_banner.webp" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Tanmay More</h1>
+<h3 align="center">Welcome to my GitHub Profile</h3>

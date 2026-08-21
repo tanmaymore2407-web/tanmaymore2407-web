@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Tanmay Sanjay More
+![Uploading image.png…]()
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
@@ -77,4 +78,3 @@ Get into a good engineering college
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-<img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/86eec9aa-b279-4ce4-8ec7-1b3d4f7e30b7" />

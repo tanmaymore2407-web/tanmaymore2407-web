@@ -104,8 +104,10 @@ Get into a good engineering college
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/neon_github_banner.webp" width="100%" />
+  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/developer_banner_neon.webp" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanmay More</h1>
-<h3 align="center">Welcome to my GitHub Profile</h3>
+<h1 align="center">Hi, I'm Tanmay More 👋</h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3></p>
+
+

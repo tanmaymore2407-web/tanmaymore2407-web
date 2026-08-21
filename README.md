@@ -78,13 +78,15 @@ Get into a good engineering college
 
 
             <p align="center">
-  <img src="./neon_github_banner.webp" alt="Welcome Banner" width="100%" />
+  <img src="./neon_github_banner.\webp" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanmay More</h1>
+  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/developer_banner_neon.webp" width="100%" />
+</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student;Full+Stack+Developer;Code+%7C+Commit+%7C+Push+%7C+Deploy" />
+<h1 align="center">Hi, I'm Tanmay More 👋</h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
 </p>
 
 ---

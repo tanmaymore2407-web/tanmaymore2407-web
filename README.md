@@ -77,7 +77,4 @@ Get into a good engineering college
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/banner.png" alt="Welcome to Tanmay More GitHub Profile" width="100%">
-</p>
-
+<img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/86eec9aa-b279-4ce4-8ec7-1b3d4f7e30b7" />

@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Tanmay Sanjay More
-
 ![Uploading image.png…]()
+
+
+# 👋 Hi, I'm Tanmay Sanjay More
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 

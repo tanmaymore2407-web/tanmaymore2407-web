@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Tanmay Sanjay More
 
+<img width="720" height="326" alt="image" src="https://github.com/user-attachments/assets/f86f6f3a-0825-4f29-99ca-de9690098f87" />
+
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
 ---
-<img width="720" height="326" alt="image" src="https://github.com/user-attachments/assets/f86f6f3a-0825-4f29-99ca-de9690098f87" />
 
 
 ## About Me

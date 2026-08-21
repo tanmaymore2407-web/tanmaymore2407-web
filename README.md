@@ -77,29 +77,6 @@ Get into a good engineering college
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-            <p align="center">
-  <img src="./neon_github_banner.\webp" alt="Welcome Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Tanmay More</h1>
-  <p align="center">
-</p>
-
-<h1 align="center">Hi, I'm Tanmay More 👋</h1>
-<h3 align="center">Welcome to my GitHub Profile!</h3>
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 Currently learning **DSA & MERN Stack**
-- 🌱 From **Nashik, Maharashtra**
-- 💬 Ask me about **C, C++, Java, Linux**
-- 📫 Email: **tanmaymore@email.com**
-
-### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayMore&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayMore&theme=tokyonight" width="48%" />
+  <img src="https://raw.githubusercontent.com/TanmayMore/TanmayMore/main/banner.png" alt="Welcome to Tanmay More GitHub Profile" width="100%">
 </p>
-

@@ -79,6 +79,5 @@ Get into a good engineering college
 ![](https://streak-stats.demolab.com/?user=tanmaymore2407-web&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmaymore2407-web&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-![Uploading image.png…]()
+<img width="718" height="334" alt="image" src="https://github.com/user-attachments/assets/ed82db26-4a57-4cdd-b23b-0566c5b4e7a9" />
 
